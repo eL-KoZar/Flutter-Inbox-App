@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "581980336785",
+    "project_id": "chat-inbox-c7684",
+    "storage_bucket": "chat-inbox-c7684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581980336785:android:c5425ecf148137dafa4530",
+        "android_client_info": {
+          "package_name": "com.example.inbox_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581980336785-3m4dh3pgpf2ad7n86ejhfdh1lkj6vvdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.inbox_app",
+            "certificate_hash": "fbc6152f82eee5924dbd8a1381179ef06279bca7"
+          }
+        },
+        {
+          "client_id": "581980336785-ejicp9bjobp40j2p8j3lvbemafac2aql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_j2SzOvZnfxP57OncLsEy72wBCsHtGwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581980336785-ejicp9bjobp40j2p8j3lvbemafac2aql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
